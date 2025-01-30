@@ -1,0 +1,10 @@
+git init => for initialising git repository
+
+git status => list all untracked files
+
+git add -A => adding all untracked files to sa 
+
+git commit -m "commit message" => sa => LR
+
+git log => to view all changes 
+
