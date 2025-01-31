@@ -11,3 +11,7 @@ git log => to view all changes
 git config --global user.name "username"
 
 git config --global user.email "email"
+
+git remote add remote_name "path":for adding remote to local repository
+
+git push (remote_name)origin master(branch_name) :
