@@ -8,3 +8,6 @@ git commit -m "commit message" => sa => LR
 
 git log => to view all changes 
 
+git config --global user.name "username"
+
+git config --global user.email "email"
